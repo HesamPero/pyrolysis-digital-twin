@@ -6,7 +6,7 @@ An interactive dashboard modelling the **mass and energy balance** of a slow pyr
 
 ---
 
-## What it does
+## What it does 
 
 Given a biomass biochemical composition and process temperature, the app computes and visualises:
 
