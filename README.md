@@ -40,9 +40,7 @@ streamlit run app.py
 | Ash content | 0 – 10 % |
 | Highest Treatment Temperature (HTT) | 450 – 850 °C |
 
-## Biomass presets
 
-Wood (Pine) · Wheat Straw · Rice Husk · Corn Stover · Sugarcane Bagasse · Miscanthus
 
 ## Note on the physics model
 
