@@ -32,10 +32,10 @@ st.markdown("""
     /* dark background */
     .stApp { background-color: #0f1117; color: #e8e8e8; }
    [data-testid="stSidebar"] label { color: #ffffff !important; }
-[data-testid="stSidebar"] .stSlider label { color: #ffffff !important; }
-[data-testid="stSidebar"] p { color: #ffffff !important; }
-[data-testid="stSidebar"] h2 { color: #a8d8a8 !important; }
-[data-testid="stSidebar"] .stMarkdown { color: #ffffff !important; }
+    [data-testid="stSidebar"] .stSlider label { color: #ffffff !important; }
+    [data-testid="stSidebar"] p { color: #ffffff !important; }
+    [data-testid="stSidebar"] h2 { color: #a8d8a8 !important; }
+    [data-testid="stSidebar"] .stMarkdown { color: #ffffff !important; }
 
     /* title banner */
     .banner {
